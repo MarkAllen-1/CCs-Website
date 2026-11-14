@@ -195,3 +195,4 @@ form.cform{background:#fff;color:var(--ink);border-radius:18px;padding:28px}
   .g2,.g4,.g5,.outcomes,.cform .row{grid-template-columns:1fr}
   .be-card .big{font-size:58px}
 }
+.amount .from{display:block;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
